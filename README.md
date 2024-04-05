@@ -1,6 +1,6 @@
-This repository contains a collection of Power BI dashboards exported as PDF files. These dashboards provide insights into various data sources and business metrics.
+This repository contains a collection of Power BI dashboards exported as PDF files and the dashboard.pbix file. These dashboards provide insights into various data sources and business metrics.
 
-Here i'll upload dahsboards on the followng topics w
+Here i'll upload dahsboards on the followng topics 
 Sales performance
 Marketing analytics
 Customer satisfaction
